@@ -17,7 +17,7 @@ Nodes:
     PanelType: "V2board" # Panel type: SSpanel, V2board, NewV2board, PMpanel, Proxypanel, V2RaySocks
     ApiConfig:
       ApiHost: "https://sharkjc.cc"
-      ApiKey: "EDZW3wXXrGDq9Ub1ciuN"
+      ApiKey: "密钥"
       NodeID: 41
       NodeType: Shadowsocks # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
